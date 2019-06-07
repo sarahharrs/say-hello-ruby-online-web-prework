@@ -1,5 +1,5 @@
 #say_hello_spec.rb
 # I call on the method say_hello, and give it the string "Sarah"
-def say_hello(name=Ruby Programer)
+def say_hello(name = Ruby Programer)
   puts "Hello #{name}!"
 end
